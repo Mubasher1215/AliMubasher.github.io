@@ -14,9 +14,8 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+        
   - title: "Guide"
     url: /markdown/
+  - title: "Publications
+    URL:    "https://scholar.google.com/citations?user=rQBGlSMAAAAJ&hl=zh-TW"
